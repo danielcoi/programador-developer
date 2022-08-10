@@ -1,7 +1,2 @@
 naranja
-banana
-nuez
-KIWI
-pescado vitamina omega
-camilo
-michel
+b
